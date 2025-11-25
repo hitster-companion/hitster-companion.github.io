@@ -1,0 +1,533 @@
+[
+  {
+    "sku": "aaaa0005",
+    "country": "United Kingdom",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0009",
+    "country": "Portugal",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0007",
+    "country": "Germany",
+    "cards": 309
+  },
+  {
+    "sku": "aaaa0008",
+    "country": "Spain",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0006",
+    "country": "Netherlands",
+    "cards": 308
+  },
+  {
+    "sku": "aaab0001",
+    "country": "United States of America",
+    "cards": 308
+  },
+  {
+    "sku": "aaab0002",
+    "country": "Mexico",
+    "cards": 308
+  },
+  {
+    "sku": "aaab0003",
+    "country": "United States of America",
+    "cards": 333
+  },
+  {
+    "sku": "aaac0001",
+    "country": "Italy",
+    "cards": 308
+  },
+  {
+    "sku": "aaad0001",
+    "country": "Canada",
+    "cards": 308
+  },
+  {
+    "sku": "aaae0001",
+    "country": "Poland",
+    "cards": 308
+  },
+  {
+    "sku": "aaaf0001",
+    "country": "Greece",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0001",
+    "country": "Netherlands",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0002",
+    "country": "Germany",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0003",
+    "country": "Spain",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0004",
+    "country": "France",
+    "cards": 308
+  },
+  {
+    "sku": "aaah0001",
+    "country": "Australia",
+    "cards": 308
+  },
+  {
+    "sku": "aaag0001",
+    "country": "Korea",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0010",
+    "country": "France",
+    "cards": 308
+  },
+  {
+    "sku": "aaae0002",
+    "country": "Poland",
+    "cards": 308
+  },
+  {
+    "sku": "aaae0003",
+    "country": "Hungary",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0011",
+    "country": "Netherlands",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0012",
+    "country": "Germany",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0013",
+    "country": "Spain",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0014",
+    "country": "Switzerland",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0015",
+    "country": "Germany",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0017",
+    "country": "Spain",
+    "cards": 225
+  },
+  {
+    "sku": "aaaa0018",
+    "country": "France",
+    "cards": 225
+  },
+  {
+    "sku": "aaaa0019",
+    "country": "Germany",
+    "cards": 226
+  },
+  {
+    "sku": "aaaa0020",
+    "country": "Netherlands",
+    "cards": 225
+  },
+  {
+    "sku": "aaai0001",
+    "country": "New Zealand",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0021",
+    "country": "United Kingdom",
+    "cards": 225
+  },
+  {
+    "sku": "aaaa0023",
+    "country": "United States of America",
+    "cards": 309
+  },
+  {
+    "sku": "aaad0002",
+    "country": "Canada",
+    "cards": 310
+  },
+  {
+    "sku": "aaaa0022",
+    "country": "Portugal",
+    "cards": 225
+  },
+  {
+    "sku": "aaaj0001",
+    "country": "Israel",
+    "cards": 308
+  },
+  {
+    "sku": "aaad0003",
+    "country": "Canada",
+    "cards": 311
+  },
+  {
+    "sku": "aaak0001",
+    "country": "Croatia",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0024",
+    "country": "Nordics",
+    "cards": 308
+  },
+  {
+    "sku": "aaal0001",
+    "country": "Baltics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0027",
+    "country": "Netherlands",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0025",
+    "country": "Germany",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0026",
+    "country": "Germany",
+    "cards": 154
+  },
+  {
+    "sku": "aaac0002",
+    "country": "Italy",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0031",
+    "country": "France",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0028",
+    "country": "Nordics",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0030",
+    "country": "Spain",
+    "cards": 308
+  },
+  {
+    "sku": "aaam0001",
+    "country": "Philipinnes",
+    "cards": 308
+  },
+  {
+    "sku": "aaan0001",
+    "country": "Peru",
+    "cards": 308
+  },
+  {
+    "sku": "aaao0001",
+    "country": "Lebanon",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0016",
+    "country": "United Kingdom",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0029",
+    "country": "Netherlands",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0033",
+    "country": "Sweden",
+    "cards": 1014
+  },
+  {
+    "sku": "aaaa0034",
+    "country": "Sweden",
+    "cards": 2029
+  },
+  {
+    "sku": "aaad0004",
+    "country": "Canada",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0035",
+    "country": "Nordics",
+    "cards": 225
+  },
+  {
+    "sku": "aaaa0036",
+    "country": "Netherlands",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0037",
+    "country": "Netherlands",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0038",
+    "country": "United States of America",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0044",
+    "country": "Nordics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0042",
+    "country": "Germany",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0045",
+    "country": "Nordics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0049",
+    "country": "Nordics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0046",
+    "country": "Nordics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0039",
+    "country": "Germany",
+    "cards": 308
+  },
+  {
+    "sku": "aaae0004",
+    "country": "Poland",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0047",
+    "country": "Nordics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0043",
+    "country": "Nordics",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0048",
+    "country": "Nordics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0050",
+    "country": "Nordics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0041",
+    "country": "Netherlands",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0040",
+    "country": "Germany",
+    "cards": 308
+  },
+  {
+    "sku": "aaad0005",
+    "country": "Canada",
+    "cards": 225,
+    "gameName": "Hitster Bingo"
+  },
+  {
+    "sku": "aaap0001",
+    "country": "Iceland",
+    "cards": 308
+  },
+  {
+    "sku": "aaae0005",
+    "country": "Poland",
+    "cards": 225
+  },
+  {
+    "sku": "aaaa0051",
+    "country": "United Kingdom",
+    "cards": 308
+  },
+  {
+    "sku": "aaae0006",
+    "country": "Czechia/Slovakia",
+    "cards": 308
+  },
+  {
+    "sku": "aaae0007",
+    "country": "Romania",
+    "cards": 308
+  },
+  {
+    "sku": "aaaq0001",
+    "country": "Brazil",
+    "cards": 308
+  },
+  {
+    "sku": "aaal0002",
+    "country": "Baltics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0052",
+    "country": "Belgium",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0053",
+    "country": "United States of America",
+    "cards": 308
+  },
+  {
+    "sku": "aaac0003",
+    "country": "Italy",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0054",
+    "country": "Global",
+    "cards": 500
+  },
+  {
+    "sku": "aaae0008",
+    "country": "Poland",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0055",
+    "country": "United States of America",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0056",
+    "country": "Chile",
+    "cards": 308
+  },
+  {
+    "sku": "aaaj0002",
+    "country": "Israel",
+    "cards": 308
+  },
+  {
+    "sku": "aaar0001",
+    "country": "Hong Kong",
+    "cards": 308
+  },
+  {
+    "sku": "aaar0002",
+    "country": "Taiwan",
+    "cards": 308
+  },
+  {
+    "sku": "aaap0002",
+    "country": "Iceland",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0060",
+    "country": "Netherlands",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0058",
+    "country": "France",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0059",
+    "country": "Germany",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0057",
+    "country": "France",
+    "cards": 154
+  },
+  {
+    "sku": "aaad0006",
+    "country": "Canada",
+    "cards": 154
+  },
+  {
+    "sku": "aaas0001",
+    "country": "Argentina",
+    "cards": 308
+  },
+  {
+    "sku": "aaat0001",
+    "country": "Japan",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0061",
+    "country": "Spain",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0062",
+    "country": "Nordics",
+    "cards": 308
+  },
+  {
+    "sku": "aaaa0063",
+    "country": "NL",
+    "cards": 420
+  },
+  {
+    "sku": "aaaa0065",
+    "country": "Nordics",
+    "cards": 154
+  },
+  {
+    "sku": "aaaa0064",
+    "country": "Germany",
+    "cards": 420
+  },
+  {
+    "sku": "aaad0007",
+    "country": "Canada",
+    "cards": 308
+  },
+  {
+    "sku": "aaae0009",
+    "country": "Poland",
+    "cards": 154
+  },
+  {
+    "sku": "aaaj0003",
+    "country": "Israel",
+    "cards": 308
+  }
+]
